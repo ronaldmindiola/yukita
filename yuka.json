@@ -1,0 +1,23 @@
+{
+	"background": "#00050C",
+	"black": "#010203",
+	"blue": "#1E90FF",
+	"brightBlack": "#686868",
+	"brightBlue": "#2890FF",
+	"brightCyan": "#0AFFFF",
+	"brightGreen": "#64F78E",
+	"brightPurple": "#FF00FF",
+	"brightRed": "#E6143C",
+	"brightWhite": "#FFF8FF",
+	"brightYellow": "#FFFC4D",
+	"cursorColor": "#F3FF89",
+	"cyan": "#00FFFF",
+	"foreground": "#DCDCDC",
+	"green": "#00FF7F",
+	"name": "Yuka",
+	"purple": "#FF00FF",
+	"red": "#DC143C",
+	"selectionBackground": "#696969",
+	"white": "#F8F8FF",
+	"yellow": "#F5FC4D"
+}
