@@ -1,10 +1,8 @@
-# Yukita
+# Yuka
 
-## Esquema de Colores Yuquita para Windows Terminal
+## Esquema de Colores para Windows Terminal
 
-# Paleta de Colores Yuquita para Windows Terminal
-
-**Yuquita** es una paleta de colores para Windows Terminal que ofrece un esquema visual elegante y moderno con tonos oscuros y vibrantes. Ideal para quienes buscan una experiencia visual atractiva y contrastante en su terminal.
+**Yuka** es una paleta de colores para Windows Terminal que ofrece un esquema visual elegante y moderno con tonos oscuros y vibrantes. Ideal para quienes buscan una experiencia visual atractiva y contrastante en su terminal.
 
 ## Características
 
@@ -14,7 +12,7 @@
 
 ## Configuración
 
-Para aplicar la paleta de colores Yuquita en Windows Terminal, sigue estos pasos:
+Para aplicar la paleta de colores Yuka en Windows Terminal, sigue estos pasos:
 
 ### 1. Abre Windows Terminal
 
@@ -36,7 +34,7 @@ Inserta la siguiente configuración en la sección "schemes":
 {
   "schemes": [
     {
-      "name": "Yuquita",
+      "name": "Yuka",
       "foreground": "#eff0eb",
       "background": "#282a36",
       "selectionBackground": "#3e404a",
@@ -65,7 +63,7 @@ Inserta la siguiente configuración en la sección "schemes":
 ### 5. Aplica el Esquema de Colores
 
 En la configuración de Windows Terminal, selecciona el perfil al que deseas aplicar el esquema.
-En el campo "colorScheme", usa el nombre Yuquita.
+En el campo "colorScheme", usa el nombre Yuka.
 Ejemplo:
 
 ```json
@@ -75,7 +73,7 @@ Ejemplo:
       {
         "guid": "{your-profile-guid}",
         "name": "Profile Name",
-        "colorScheme": "Yuquita"
+        "colorScheme": "Yuka"
       }
     ]
   }
@@ -84,7 +82,7 @@ Ejemplo:
 
 ### 6. Guarda y Cierra la Configuración
 
-Guarda los cambios y cierra el editor de configuración. La nueva paleta de colores Yuquita debería estar activa en tu Windows Terminal.
+Guarda los cambios y cierra el editor de configuración. La nueva paleta de colores Yuka debería estar activa en tu Windows Terminal.
 
 ### Nota
 
